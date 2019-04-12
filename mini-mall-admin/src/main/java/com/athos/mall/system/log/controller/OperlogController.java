@@ -23,7 +23,7 @@ import java.util.List;
  * @author ruoyi
  */
 @Controller
-@RequestMapping("/monitor/operlog")
+@RequestMapping("/system/operlog")
 
 public class OperlogController extends BaseController {
     private String prefix = "system/operlog";
@@ -31,13 +31,13 @@ public class OperlogController extends BaseController {
     @Autowired
     private IOperLogService operLogService;
 
-    @RequiresPermissions("monitor:operlog:view")
+    @RequiresPermissions("system:operlog:view")
     @GetMapping()
     public String operlog() {
         return prefix + "/operlog";
     }
 
-    @RequiresPermissions("monitor:operlog:list")
+    @RequiresPermissions("system:operlog:list")
     @PostMapping("/list")
     @ResponseBody
     public TableDataInfo list(OperLog operLog) {
@@ -47,7 +47,7 @@ public class OperlogController extends BaseController {
     }
 
     @Log(title = "操作日志", businessType = BusinessType.EXPORT)
-    @RequiresPermissions("monitor:operlog:export")
+    @RequiresPermissions("system:operlog:export")
     @PostMapping("/export")
     @ResponseBody
     public AjaxResult export(OperLog operLog) {
@@ -56,14 +56,14 @@ public class OperlogController extends BaseController {
         return util.exportExcel(list, "操作日志", SysConfig.getDownloadPath());
     }
 
-    @RequiresPermissions("monitor:operlog:remove")
+    @RequiresPermissions("system:operlog:remove")
     @PostMapping("/remove")
     @ResponseBody
     public AjaxResult remove(String ids) {
         return toAjax(operLogService.deleteOperLogByIds(ids));
     }
 
-    @RequiresPermissions("monitor:operlog:detail")
+    @RequiresPermissions("system:operlog:detail")
     @GetMapping("/detail/{operId}")
     public String detail(@PathVariable("operId") Long operId, ModelMap mmap) {
         mmap.put("operLog", operLogService.selectOperLogById(operId));
@@ -71,7 +71,7 @@ public class OperlogController extends BaseController {
     }
 
     @Log(title = "操作日志", businessType = BusinessType.CLEAN)
-    @RequiresPermissions("monitor:operlog:remove")
+    @RequiresPermissions("system:operlog:remove")
     @PostMapping("/clean")
     @ResponseBody
     public AjaxResult clean() {

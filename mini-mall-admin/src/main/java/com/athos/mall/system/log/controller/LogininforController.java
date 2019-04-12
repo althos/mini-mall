@@ -26,20 +26,20 @@ import java.util.List;
  * @author ruoyi
  */
 @Controller
-@RequestMapping("/monitor/logininfor")
+@RequestMapping("/system/logininfor")
 public class LogininforController extends BaseController {
     private String prefix = "system/logininfor";
 
     @Autowired
     private ILogininforService logininforService;
 
-    @RequiresPermissions("monitor:logininfor:view")
+    @RequiresPermissions("system:logininfor:view")
     @GetMapping()
     public String logininfor() {
         return prefix + "/logininfor";
     }
 
-    @RequiresPermissions("monitor:logininfor:list")
+    @RequiresPermissions("system:logininfor:list")
     @PostMapping("/list")
     @ResponseBody
     public TableDataInfo list(Logininfor logininfor) {
@@ -49,7 +49,7 @@ public class LogininforController extends BaseController {
     }
 
     @Log(title = "登陆日志", businessType = BusinessType.EXPORT)
-    @RequiresPermissions("monitor:logininfor:export")
+    @RequiresPermissions("system:logininfor:export")
     @PostMapping("/export")
     @ResponseBody
     public AjaxResult export(Logininfor logininfor) {
@@ -58,7 +58,7 @@ public class LogininforController extends BaseController {
         return util.exportExcel(list, "登陆日志", SysConfig.getDownloadPath());
     }
 
-    @RequiresPermissions("monitor:logininfor:remove")
+    @RequiresPermissions("system:logininfor:remove")
     @Log(title = "登陆日志", businessType = BusinessType.DELETE)
     @PostMapping("/remove")
     @ResponseBody
@@ -66,7 +66,7 @@ public class LogininforController extends BaseController {
         return toAjax(logininforService.deleteLogininforByIds(ids));
     }
 
-    @RequiresPermissions("monitor:logininfor:remove")
+    @RequiresPermissions("system:logininfor:remove")
     @Log(title = "登陆日志", businessType = BusinessType.CLEAN)
     @PostMapping("/clean")
     @ResponseBody

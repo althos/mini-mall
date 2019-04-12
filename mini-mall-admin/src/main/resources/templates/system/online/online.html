@@ -27,7 +27,7 @@
 			</div>
 			
 	        <div class="btn-group-sm hidden-xs" id="toolbar" role="group">
-	            <a class="btn btn-danger btn-del disabled" onclick="javascript:batchForceLogout()" shiro:hasPermission="monitor:online:batchForceLogout">
+	            <a class="btn btn-danger btn-del disabled" onclick="javascript:batchForceLogout()" shiro:hasPermission="system:online:batchForceLogout">
 	                <i class="fa fa-sign-out"></i> 强退
 	            </a>
 	        </div>
@@ -39,8 +39,8 @@
 	</div>
 	<div th:include="include :: footer"></div>
 	<script th:inline="javascript">
-		var forceFlag = [[${@permission.hasPermi('monitor:online:forceLogout')}]];
-		var prefix = ctx + "monitor/online";
+		var forceFlag = [[${@permission.hasPermi('system:online:forceLogout')}]];
+		var prefix = ctx + "system/online";
 
 		$(function() {
 		    var options = {

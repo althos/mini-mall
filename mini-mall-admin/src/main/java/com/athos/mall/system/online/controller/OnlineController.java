@@ -26,7 +26,7 @@ import java.util.List;
  * @author ruoyi
  */
 @Controller
-@RequestMapping("/monitor/online")
+@RequestMapping("/system/online")
 public class OnlineController extends BaseController {
     private String prefix = "system/online";
 
@@ -36,13 +36,13 @@ public class OnlineController extends BaseController {
     @Autowired
     private OnlineSessionDAO onlineSessionDAO;
 
-    @RequiresPermissions("monitor:online:view")
+    @RequiresPermissions("system:online:view")
     @GetMapping()
     public String online() {
         return prefix + "/online";
     }
 
-    @RequiresPermissions("monitor:online:list")
+    @RequiresPermissions("system:online:list")
     @PostMapping("/list")
     @ResponseBody
     public TableDataInfo list(UserOnline userOnline) {
@@ -51,7 +51,7 @@ public class OnlineController extends BaseController {
         return getDataTable(list);
     }
 
-    @RequiresPermissions("monitor:online:batchForceLogout")
+    @RequiresPermissions("system:online:batchForceLogout")
     @Log(title = "在线用户", businessType = BusinessType.FORCE)
     @PostMapping("/batchForceLogout")
     @ResponseBody
@@ -75,7 +75,7 @@ public class OnlineController extends BaseController {
         return success();
     }
 
-    @RequiresPermissions("monitor:online:forceLogout")
+    @RequiresPermissions("system:online:forceLogout")
     @Log(title = "在线用户", businessType = BusinessType.FORCE)
     @PostMapping("/forceLogout")
     @ResponseBody
