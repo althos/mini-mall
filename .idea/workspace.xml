@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/user/controller/LoginController.java" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1409526c-94fd-45e2-a121-2523666da448" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-admin/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-common/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-db-base/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-core/target/" />
+    <ignored path="$PROJECT_DIR$/mini-mall-tools/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-53960563">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="10" />
+          <entry key="java" value="1021" />
+          <entry key="xml" value="75" />
+          <entry key="yml" value="148" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1021" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="75" />
+          <entry key="YAML" value="148" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="24" />
+          <entry key="html" value="10" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="807" />
+          <entry key="js" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="vm" value="1" />
+          <entry key="xml" value="101" />
+          <entry key="yml" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="24" />
+          <entry key="HTML" value="10" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="807" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="VTL" value="1" />
+          <entry key="XML" value="101" />
+          <entry key="YAML" value="47" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/job/controller/JobController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="754">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3344#3345#0" expanded="true" />
+                <element signature="e#3404#3405#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/pagebuild/controller/BuildController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-mall-common/src/main/java/com/athos/mall/util/Arith.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2340">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/controller/ServerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4186">
+              <caret line="181" column="51" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/math/BigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39364">
+              <caret line="1558" selection-start-line="1558" selection-end-line="1558" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>children</find>
+      <find>try {             return point.proceed();         } finally {             // 销毁数据源 在执行方法之后             DynamicDataSourceContextHolder.clearDateSoureType();         }</find>
+      <find>LogoutFilter</find>
+      <find>user.password.not.match</find>
+      <find>ehcache-shiro</find>
+      <find>Process</find>
+      <find>RuoYiConfig</find>
+      <find>Log</find>
+      <find>sh</find>
+      <find>shiroConfig</find>
+      <find>AjaxResult</find>
+      <find>err</find>
+      <find>ConfigController</find>
+      <find>error</find>
+      <find>error(String message)</find>
+      <find>spring-boot-devtools</find>
+      <find>DruidConfig</find>
+      <find>MybatisC</find>
+      <find>selectJobVo</find>
+      <find>selectJobAll</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/idea_pro/cas-4.2.7" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/post/controller/PostController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/process/controller/ProcessController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/process/controller/StatisticsController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/role/controller/RoleController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/user/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/user/controller/ProfileController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/system/dict/controller/DictTypeController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/system/mapper/MenuMapper.java" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/system/service/IDictDataService.java" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/system/mapper/ProcessMapper.java" />
+        <option value="$PROJECT_DIR$/mini-mall-common/src/main/java/com/athos/mall/exception/file/InvalidExtensionException.java" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/lang/datasource/mybatis/PackagesSqlSessionFactoryBean.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/resources/mappers/JobLogMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/resources/mappers/JobMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/job/mapper/JobMapper.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/job/service/impl/JobServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/Application.java" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/lang/datasource/mybatis/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/mini-mall-db-base/src/main/resources/application-base.yml" />
+        <option value="$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall/xss/XssHttpServletRequestWrapper.java" />
+        <option value="$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall/xss/XssFilter.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/App.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/TableInfo.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/config/GenConfig.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/service/GenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/service/IGenService.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/util/GenUtils.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/mapper/GenMapper.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/ColumnConfigInfo.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/ColumnInfo.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/resources/templates/application-tools.yml" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/ProductApiController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/SwaggerController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/mini-mall-common/src/main/java/com/athos/mall/pagebuild/BuildController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/pagebuild/BuildController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/controller/GenController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/resources/mappers/GenMapper.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/util/VelocityInitializer.java" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mini-mall-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Jvm.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Cpu.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Mem.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/controller/ServerController.java" />
+        <option value="$PROJECT_DIR$/mini-mall-common/src/main/java/com/athos/mall/util/Arith.java" />
+        <option value="$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Server.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mini-mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mini-mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="7" />
+    <option name="width" value="1916" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mini-mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mini-mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mini-mall-tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555063209974" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39849624" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.athos.mall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitHub\mini-mall\mini-mall-quartz\src\main\resources\templates\quartz" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-quartz\src\main\java\com\athos\mall" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-tools\src\main\resources\mappers" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-tools\src\main\resources\templates" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-tools\src\main\java\com\athos\mall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.athos.mall.pagebuild" />
+      <recent name="com.athos.mall.swagger.config" />
+      <recent name="com.athos.mall.gen.config" />
+      <recent name="com.athos.mall" />
+      <recent name="com.athos.mall.job.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gitHub\mini-mall\mini-mall-tools\src\main\resources\templates\tools" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-tools\src\main\resources\templates\gen" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-core\src\main\resources" />
+      <recent name="E:\gitHub\mini-mall\mini-mall-admin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athos.mall.App" />
+      <module name="mini-mall-db-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athos.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.athos.mall.Application" />
+      <module name="mini-mall-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.athos.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1409526c-94fd-45e2-a121-2523666da448" name="Default Changelist" comment="" />
+      <created>1554695260716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554695260716</updated>
+      <workItem from="1554695263563" duration="1772000" />
+      <workItem from="1554697331919" duration="18638000" />
+      <workItem from="1554720322976" duration="26773000" />
+      <workItem from="1554858925636" duration="3187000" />
+      <workItem from="1554959273411" duration="27275000" />
+      <workItem from="1555063457291" duration="259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77904000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.037960954" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7889126" weight="0.36590663" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8160981" weight="0.12039045" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.21108742" side_tool="true" visible="true" weight="0.36482084" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49733475" weight="0.18004338" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="8" visible="true" weight="0.10554371" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/config/ShiroConfig.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-db-base/src/main/java/com/athos/mall/base/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1426">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall/xss/XssHttpServletRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="21" column="13" selection-start-line="20" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall/xss/XssFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/TableInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/service/IGenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/util/GenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1738">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/service/GenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/mapper/GenMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/config/GenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/ColumnConfigInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/domain/ColumnInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/resources/templates/vm/sql/sql.vm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-db-base/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-db-base/src/main/resources/application-base.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-admin/src/main/resources/application-admin.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/resources/templates/tools/gen/gen.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/ProductApiController.java" />
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/controller/SwaggerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-core/src/main/resources/application-core.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-core/src/main/java/com/athos/mall/config/SysConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-admin/src/main/java/com/athos/mall/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/swagger/config/SwaggerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/resources/templates/tools/build/build.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#208#215#1" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/controller/GenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/resources/mappers/GenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/resources/templates/application-tools.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/gen/util/VelocityInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/athos/mall/mini-mall-db-base/1.0-SNAPSHOT/mini-mall-db-base-1.0-SNAPSHOT.jar!/com/athos/mall/lang/datasource/mybatis/MybatisConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="84" column="27" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/druid/DruidController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Mem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Sys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/SysFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/resources/templates/quartz/server/server.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Jvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-spring/1.4.0/shiro-spring-1.4.0.jar!/org/apache/shiro/spring/security/interceptor/AopAllianceAnnotationsAuthorizingMethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/job/controller/JobController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3344#3345#0" expanded="true" />
+            <element signature="e#3404#3405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-common/src/main/java/com/athos/mall/util/Arith.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-quartz/src/main/java/com/athos/mall/server/domain/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4186">
+          <caret line="181" column="51" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39364">
+          <caret line="1558" selection-start-line="1558" selection-end-line="1558" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini-mall-tools/src/main/java/com/athos/mall/pagebuild/controller/BuildController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mini-mall-quartz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39849624" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-core:5.1.3.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39849624" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
