@@ -15,6 +15,8 @@
         <module>mini-mall-db-base</module>
         <module>mini-mall-core</module>
         <module>mini-mall-tools</module>
+        <module>mini-mall-shop</module>
+        <module>mini-mall-all</module>
     </modules>
 
     <name>mini-mall</name>
